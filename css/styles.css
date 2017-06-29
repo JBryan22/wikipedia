@@ -1,0 +1,53 @@
+body {
+  background-color: #f6f6f6;
+  margin-top:0.5%;
+}
+
+.navigation {
+  text-align: right;
+  margin-right: 1.8%;
+  font-size: 0.9em;
+}
+
+.navigation li{
+  display:inline-block;
+}
+.placement {
+  list-style-image: inherit;
+}
+
+.sidebar {
+  width:10%;
+  float:left;
+}
+
+.account li {
+  margin-left: 0.8%;
+  margin-bottom: 0.7%;
+}
+
+.talk {
+  float:left;
+}
+
+main {
+  clear:left;
+  display: inline-block;
+  width: 88%;
+}
+
+h1 {
+  font-size: 1.7em;
+  font-style:normal;
+}
+
+.categories {
+  width: 50%;
+}
+
+.categories ul{
+  display:inline-block;
+}
+.change {
+  float: right;
+}
