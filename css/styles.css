@@ -88,5 +88,30 @@ body {
 
 .main {
   background-color: white;
-  padding:20px;
+  padding:40px;
+  border: 1px solid lightblue;
+}
+
+.account li {
+  margin-left: 0.8%;
+  margin-bottom: 0.7%;
+}
+
+.categories {
+  float: right;
+}
+
+.welcome {
+  float: left;
+  margin-top: -1em;
+}
+
+.well {
+  padding-bottom: 0.2em;
+  border-radius: 0;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight:400;
 }
