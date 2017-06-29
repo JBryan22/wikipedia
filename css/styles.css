@@ -115,3 +115,16 @@ h1 {
   font-size: 2em;
   font-weight:400;
 }
+
+.left {
+
+}
+
+.panel {
+  border-radius: 0;
+  background-color: #f5fffa
+}
+
+.panel-heading {
+  border-radius: 0;
+}
